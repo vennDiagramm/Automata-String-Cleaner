@@ -1,5 +1,8 @@
-verifiedSenders = ["callcenter@bdo.com.ph", "customercare@landbank.com", "customercare@metrobank.com.ph", "customerassistance@toyota.com.ph", "service@intl.paypal.com"]
-keywords = ["Buy Now", "Urgent", "Account", "Payment", "Verify", "Important", "http://", "Link", "Unsubscribe", "Subscribe"]
+verifiedSenders = ["callcenter@bdo.com.ph", "customercare@landbank.com", 
+                   "customercare@metrobank.com.ph", "customerassistance@toyota.com.ph", 
+                   "service@intl.paypal.com"]
+keywords = ["Buy Now", "Urgent", "Account", "Payment", "Verify", 
+            "Important", "http://", "Link", "Unsubscribe", "Subscribe"]
 
 # The Input
 #userInput = input("What is the pattern: ")
